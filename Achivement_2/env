@@ -1,5 +1,0 @@
-USER_DB = postgres
-PASSWORD = wirenboard
-HOST = localhost
-PORT = 5432
-DB = postgres
